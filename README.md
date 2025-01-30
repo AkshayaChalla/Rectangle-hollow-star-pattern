@@ -1,0 +1,1 @@
+# Rectangle-hollow-star-pattern
